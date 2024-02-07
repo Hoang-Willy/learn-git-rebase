@@ -1,5 +1,5 @@
 main.init
-main.1
+main.1 main1.3 update
 main.2
 main1.1
 main1.2
